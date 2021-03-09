@@ -114,10 +114,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
+  <strong>Requirements:</strong> Participants must have a laptop with a 
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
   on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>). They are also required to abide by
+  <a href="#setup">below</a>). It is highly recomemded to have an additional monitor / device for 
+  additional screen space for follwoing Zoom meeting and RStudio hands-on work.
+They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
   {% elsif page.carpentry == "dc" %}
@@ -133,7 +135,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   Modify the block below if there are any barriers to accessibility or
   special instructions.
-{% endcomment %}
+
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
@@ -151,7 +153,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
-
+{% endcomment %}
 {% comment %}
   CONTACT EMAIL ADDRESS
 
