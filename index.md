@@ -181,6 +181,18 @@ They are also required to abide by
   for more information.
 </p>
 
+<h2>Registration</h2>
+<p>
+  Space is limited to 40 participants for this workshop
+  and registration is required. 
+  Please plan on attending the entire time for both days.
+  This workshop will be free, however registration requires attendance for most of the workshop.
+ 
+</p>
+<p><strong>
+  <a href="https://informatics.research.ufl.edu/registration-uf-carpentries-club-geospatial-workshop/">Register for this workshop!</a>
+  <!-- Registration is now full -->
+</strong></p>
 <hr/>
 
 {% comment %}
